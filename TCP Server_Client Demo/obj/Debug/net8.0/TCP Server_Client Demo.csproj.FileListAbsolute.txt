@@ -1,0 +1,14 @@
+E:\ITI\C#\TCP Server_Client Demo\TCP Server_Client Demo\bin\Debug\net8.0\TCP Server_Client Demo.exe
+E:\ITI\C#\TCP Server_Client Demo\TCP Server_Client Demo\bin\Debug\net8.0\TCP Server_Client Demo.deps.json
+E:\ITI\C#\TCP Server_Client Demo\TCP Server_Client Demo\bin\Debug\net8.0\TCP Server_Client Demo.runtimeconfig.json
+E:\ITI\C#\TCP Server_Client Demo\TCP Server_Client Demo\bin\Debug\net8.0\TCP Server_Client Demo.dll
+E:\ITI\C#\TCP Server_Client Demo\TCP Server_Client Demo\bin\Debug\net8.0\TCP Server_Client Demo.pdb
+E:\ITI\C#\TCP Server_Client Demo\TCP Server_Client Demo\obj\Debug\net8.0\TCP Server_Client Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\C#\TCP Server_Client Demo\TCP Server_Client Demo\obj\Debug\net8.0\TCP Server_Client Demo.AssemblyInfoInputs.cache
+E:\ITI\C#\TCP Server_Client Demo\TCP Server_Client Demo\obj\Debug\net8.0\TCP Server_Client Demo.AssemblyInfo.cs
+E:\ITI\C#\TCP Server_Client Demo\TCP Server_Client Demo\obj\Debug\net8.0\TCP Server_Client Demo.csproj.CoreCompileInputs.cache
+E:\ITI\C#\TCP Server_Client Demo\TCP Server_Client Demo\obj\Debug\net8.0\TCP Server_Client Demo.dll
+E:\ITI\C#\TCP Server_Client Demo\TCP Server_Client Demo\obj\Debug\net8.0\refint\TCP Server_Client Demo.dll
+E:\ITI\C#\TCP Server_Client Demo\TCP Server_Client Demo\obj\Debug\net8.0\TCP Server_Client Demo.pdb
+E:\ITI\C#\TCP Server_Client Demo\TCP Server_Client Demo\obj\Debug\net8.0\TCP Server_Client Demo.genruntimeconfig.cache
+E:\ITI\C#\TCP Server_Client Demo\TCP Server_Client Demo\obj\Debug\net8.0\ref\TCP Server_Client Demo.dll
