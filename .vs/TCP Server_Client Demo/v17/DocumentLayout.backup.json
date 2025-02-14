@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\ITI\\C#\\TCP Server_Client Demo\\",
+  "WorkspaceRootPath": "E:\\ITI\\C#\\Simple-Chat-app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87E1E5ED-53E1-4366-B0B9-EC1858EBF399}|Client test\\Client test.csproj|e:\\iti\\c#\\tcp server_client demo\\client test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBD70519-0C89-406B-8FEE-43FD6823F0EB}|Client2\\Client2.csproj|e:\\iti\\c#\\simple-chat-app\\client2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD70519-0C89-406B-8FEE-43FD6823F0EB}|Client2\\Client2.csproj|solutionrelative:client2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E1E5ED-53E1-4366-B0B9-EC1858EBF399}|Client test\\Client test.csproj|e:\\iti\\c#\\simple-chat-app\\client test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87E1E5ED-53E1-4366-B0B9-EC1858EBF399}|Client test\\Client test.csproj|solutionrelative:client test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3FCC395-B301-4CF8-A95F-2606F467B6C5}|TCP Server_Client Demo\\TCP Server_Client Demo.csproj|e:\\iti\\c#\\tcp server_client demo\\tcp server_client demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3FCC395-B301-4CF8-A95F-2606F467B6C5}|TCP Server_Client Demo\\TCP Server_Client Demo.csproj|solutionrelative:tcp server_client demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBD70519-0C89-406B-8FEE-43FD6823F0EB}|Client2\\Client2.csproj|e:\\iti\\c#\\tcp server_client demo\\client2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD70519-0C89-406B-8FEE-43FD6823F0EB}|Client2\\Client2.csproj|solutionrelative:client2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3FCC395-B301-4CF8-A95F-2606F467B6C5}|TCP Server_Client Demo\\Server.csproj|e:\\iti\\c#\\simple-chat-app\\tcp server_client demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FCC395-B301-4CF8-A95F-2606F467B6C5}|TCP Server_Client Demo\\Server.csproj|solutionrelative:tcp server_client demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\ITI\\C#\\TCP Server_Client Demo\\Client2\\Program.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\Simple-Chat-app\\Client2\\Program.cs",
               "RelativeDocumentMoniker": "Client2\\Program.cs",
-              "ToolTip": "E:\\ITI\\C#\\TCP Server_Client Demo\\Client2\\Program.cs",
+              "ToolTip": "E:\\ITI\\C#\\Simple-Chat-app\\Client2\\Program.cs",
               "RelativeToolTip": "Client2\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwCgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T21:30:35.569Z",
               "IsPinned": true,
@@ -44,26 +44,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\ITI\\C#\\TCP Server_Client Demo\\Client test\\Program.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\Simple-Chat-app\\Client test\\Program.cs",
               "RelativeDocumentMoniker": "Client test\\Program.cs",
-              "ToolTip": "E:\\ITI\\C#\\TCP Server_Client Demo\\Client test\\Program.cs",
+              "ToolTip": "E:\\ITI\\C#\\Simple-Chat-app\\Client test\\Program.cs",
               "RelativeToolTip": "Client test\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T20:27:29.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\ITI\\C#\\TCP Server_Client Demo\\TCP Server_Client Demo\\Program.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\Simple-Chat-app\\TCP Server_Client Demo\\Program.cs",
               "RelativeDocumentMoniker": "TCP Server_Client Demo\\Program.cs",
-              "ToolTip": "E:\\ITI\\C#\\TCP Server_Client Demo\\TCP Server_Client Demo\\Program.cs",
+              "ToolTip": "E:\\ITI\\C#\\Simple-Chat-app\\TCP Server_Client Demo\\Program.cs",
               "RelativeToolTip": "TCP Server_Client Demo\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T18:48:08.384Z",
               "EditorCaption": ""

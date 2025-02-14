@@ -37,7 +37,6 @@ namespace Client_test
                 string s = Console.ReadLine();
                 if (s == "Exit")
                     break;
-                Console.Write("==>");
                 writer.WriteLine(s);
             }
 
